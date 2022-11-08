@@ -1,17 +1,9 @@
 body{
-    background-color: #222;
-    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px ;
+    text-align: center;
 }
 
 
 
 
-.container{
-    max-width: 500px;
-    margin: 30px auto;
-    overflow: auto;
-    min-height: 300px;
-    border: 2px solid chartreuse;
-    padding: 30px;
-    border-radius: 10px;
-}

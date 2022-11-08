@@ -1,6 +1,7 @@
 import React from "react";
 
-const Tasks = () => {
+const Tasks = (props) => {
+    console.log(props)
     return(
         <h1>Tasks</h1>
     )
